@@ -1,36 +1,38 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the CNAM engineer school in France and in apprenticeship at Coexel .\
+💻 &nbsp;And in apprenticeship at Coexel as a front-end and back-end web developer, and I'm working on Python projects too !\
+🌱 &nbsp; I am also a member of the collective of responsible entrepreneurs We Act 4 Earth with the aim of accompanying companies in their ecological transition.\
+✍️ &nbsp;I'm on track for learning more about development in general, eco-design and security.\
+📚 &nbsp;In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, environment, human rights or tech.\
+✉️ &nbsp;You can shoot me an email at thoams.laure@ik.me! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
 
 ## Dev environnements
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)&nbsp;
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse-ide)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)&nbsp;
 
 ## Main skills
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=CSS3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jQuery)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)&nbsp;
 
 ## Other skills
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=007396)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=adobe-photoshop)&nbsp;
 
-
-## &#x1f4c8; My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thlaure&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to reach me
+- [Email](thomas.laure@ik.me)
+- [LinkedIn](https://www.linkedin.com/in/thomas-laure-developpeur-web/)
+- [Twitter](https://twitter.com/laure_th)
