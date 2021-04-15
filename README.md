@@ -15,7 +15,7 @@
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse-ide)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)&nbsp;
+![Windows](http://img.shields.io/badge/-Windows-000000?style=flat-square&logo=windows)&nbsp;
 
 ## Main skills
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5)&nbsp;
