@@ -6,7 +6,7 @@ In my free time, I love reading books, listening podcasts about many subjets suc
 
 Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
 
-🐱‍💻
+🐱‍💻About me
 
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use : VS Code, GNU/Linux, Windows, Git, MySQL
