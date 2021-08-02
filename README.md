@@ -9,7 +9,9 @@ In my free time, I love reading books, listening podcasts about many subjets suc
 You can shoot me an email at thomas.laure@ik.me! I'll try to respond as soon as I can.\
 Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
 
-## Dev environnements
+---
+
+## Dev environnement
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat-square&logo=visual-studio-code)&nbsp;
@@ -31,6 +33,8 @@ Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details a
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=007396)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=adobe-photoshop)&nbsp;
+
+---
 
 ## 📫 How to reach me
 - [Email](thomas.laure@ik.me)
