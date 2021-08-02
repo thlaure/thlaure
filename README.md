@@ -8,6 +8,7 @@ In my free time, I love reading books, listening podcasts about many subjets suc
 
 You can shoot me an email at thomas.laure@ik.me! I'll try to respond as soon as I can.\
 Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
+![Twitter Follow](https://img.shields.io/twitter/follow/th_laure?style=social)
 
 ---
 
