@@ -13,7 +13,7 @@ Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details a
 
 ## Dev environnement
 
-<img src="https://worldvectorlogo.com/logo/linux-tux" alt="GNU/Linux Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/git-icon" alt="Git Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux" alt="GNU/Linux Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/git-icon" alt="Git Logo" width="50" height="50"/> 
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)&nbsp;
