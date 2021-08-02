@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Thomas Laure!
+### Hi there 👋, I am Thomas Laure!
 
 I'm a french Software Engineer specializing in web technologies. I like to explore new technologies and develop software solutions and quick hacks, and I'm on track for learning more about development in general, eco-design and security.
 
