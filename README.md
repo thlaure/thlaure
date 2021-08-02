@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Thomas Laure!
 
-### 👨🏻‍💻 &nbsp;About Me
+---
 
-A Software Engineer specializing in web technologies : JavaScript, PHP, Symfony. I like to explore new technologies and develop software solutions and quick hacks, and I'm on track for learning more about development in general, eco-design and security.\
+A Software Engineer specializing in web technologies : JavaScript, PHP, Symfony. I like to explore new technologies and develop software solutions and quick hacks, and I'm on track for learning more about development in general, eco-design and security.
 
-In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, environment, human rights or tech. I am also a member of the collective of responsible entrepreneurs We Act 4 Earth with the aim of accompanying companies in their ecological transition.\
+In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, environment, human rights or tech. I am also a member of the collective of responsible entrepreneurs We Act 4 Earth with the aim of accompanying companies in their ecological transition.
 
 You can shoot me an email at thomas.laure@ik.me! I'll try to respond as soon as I can.\
 Please have a look at my [Portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
