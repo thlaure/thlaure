@@ -9,9 +9,9 @@ Please have a look at my [portfolio](https://thomaslaure.fr/) for more details a
 🐱‍💻About me
 
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
-- 💻I daily use : VS Code, GNU/Linux, Windows, Git, MySQL
-- 🧰With the following languages and frameworks : HTML/CSS, Bootstrap, jQuery, JavaScript, Node.js (Express), PHP, Symfony
-- 💡I have also skills in : C#, Java, Python, Photoshop, UX Design (design thinking)
+- 💻I daily use : VS Code, GNU/Linux, Windows, Git, MySQL, PhpStorm, Vagrant
+- 🧰With the following languages and frameworks : HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, PHP, Symfony
+- 💡I have also skills in : C#, Java, Python, Photoshop, UX Design, Design Thinking
 - 🌱I'm studying Big Data, cybersecurity and DevOps methodology with Docker
 
 📬Get in touch
