@@ -2,7 +2,7 @@
 
 I'm a french Software Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks, and I'm on track for learning more about development in general, eco-design and security.
 
-In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, environment, human rights or tech.
+In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, human rights or tech.
 
 Please have a look at my [portfolio](https://thomaslaure.fr/) for more details about me. I'm open to feedback and suggestions!
 
