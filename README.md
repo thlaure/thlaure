@@ -17,4 +17,4 @@ Please have a look at my [portfolio](https://thomaslaure.fr/) for more details a
 - Portfolio: https://thomaslaure.fr
 - Mail: thomas.laure@ik.me
 - Twitter: https://twitter.com/laure_th
-- LinkedIn: https://www.linkedin.com/in/thomas-laure-developpeur-web/
+- LinkedIn: https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/
