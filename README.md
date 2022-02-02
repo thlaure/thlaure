@@ -14,5 +14,6 @@ In my free time, I love reading books, listening podcasts about many subjets suc
 
 📬Get in touch
 - Mail: thomas.laure@ik.me
-- Twitter: https://twitter.com/laure_th
-- LinkedIn: https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/
+- Twitter: [@laure_th](https://twitter.com/laure_th)
+- LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/)
+- Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
