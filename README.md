@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Thomas Laure!
 
-I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks, and I'm on track for learning more about development in general, eco-design and security.
+I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
-In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, sustainable developmentn human rights or tech, or make a lot of surveillance about development, tech in general, marketing, e-commerce, management and many others professional skills.
+In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, sustainable development, human rights or tech, or make a lot of surveillance about dev, tech in general, marketing, e-commerce, management and many others professional skills.
 
 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
