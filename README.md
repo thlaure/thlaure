@@ -57,10 +57,10 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
 - *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
+  - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
   - Development of a login portal to connect Moodle database to HubSpot contact list
   - Maintenance and migration of the association's website
   - Monitoring news about green IT, sustainable development and CSR
-  - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
 
 ---
 
