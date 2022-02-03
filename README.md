@@ -50,7 +50,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 ### 🌍Personal investment
 
-- *Since 12/2021* : Animator of the Climate Fresk
+- *Since 12/2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
   - To raise awareness about climate crisis and understand its origins
 
 - *2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
