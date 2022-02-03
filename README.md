@@ -19,7 +19,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 #### 🖥️Professional experience
 
-- *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
+- *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
   - Front-end and back-end development of clients' website
   - Creation of a dev environment with Vagrant
   - Eco-design and green IT
@@ -41,24 +41,18 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - *07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
   - Development of an e-commerce website specialized on golf equipment
 
-#### 👨‍🎓Education
+- *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
+  - Design of the project's database, and participated in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
+  - Project currently in production: [Rezone](https://rezone.ameli.fr/rezone/)
 
-- *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
-  - OOP, web development, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation
-  - Last year option: cybersecurity
-  - Graduation with honors
-  - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
-
-- *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte, Toulon
-  - OOP, web development, databases, basis of network management, algorithms, Android development, Agile management, cybersecurity
-  - 2nd in inter-academic ranking
-
-- *09/2015 - 04/2016* : 1 year at the University - Toulon
-  - Learning generalities about IT and physics
-
-- *09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle, Hyères
+- *05/2017 - 06/2017* : BTS internship at CPAM of Toulon
+  - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
+  - Project currently in production
 
 #### 🌍Personal investment
+
+- *Since 12/2021* : Animator of the Climate Fresk
+  - To raise awareness about climate crisis and understand its origins
 
 - *2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
   - Financial particitation to develop durable and sustainbly innovations for a more desirable future
@@ -68,6 +62,31 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Maintenance and migration of the association's website
   - Monitoring news about green IT, sustainable development and CSR
   - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
+
+#### 👨‍🎓Education
+
+- *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
+  - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation
+  - Last year option: cybersecurity
+  - Participation in student life as a class representative and member of the Student Office (BDE in french).
+  - Graduation with honors
+  - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
+
+- *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
+  - OOP, web development, databases, basis of network management, algorithmics, Android development, Agile management, cybersecurity
+  - [CyberEdu](https://www.cyberedu.fr/pages/label-2019-001/) certified training
+  - 2nd in inter-academic ranking
+
+- *09/2015 - 04/2016* : 1 year at the University - Toulon
+  - Learning generalities about IT and physics
+
+- *09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
+
+#### 👨‍💻Formations / certifications
+
+- M2i Formation: Artificial Intelligence - Introduction (2020)
+- TOEIC: 645 points (2021)
+- Voltaire Project: 771 points (2018)
 
 ---
 
