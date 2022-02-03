@@ -54,7 +54,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - To raise awareness about climate crisis and understand its origins
 
 - *2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
-  - Financial particitation to develop durable and sustainbly innovations for a more desirable future
+  - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
 - *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
   - Development of a login portal to connect Moodle database to HubSpot contact list
