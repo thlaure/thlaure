@@ -62,6 +62,8 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Monitoring news about green IT, sustainable development and CSR
   - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
 
+---
+
 ### 👨‍🎓Education
 
 - *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
