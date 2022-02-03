@@ -72,6 +72,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - M2i Formation: Artificial Intelligence - Introduction (2020)
 - TOEIC: 645 points (2021)
 - Voltaire Project: 771 points (2018)
+- OpenClassrooms: UX design, Design Thinking, Devops with Docker, Community Management
 
 ---
 
