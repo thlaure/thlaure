@@ -57,7 +57,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
   - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis
   - Last year option: cybersecurity
-  - Participation in student life as a class representative and member of the Student Office (BDE in french).
+  - Participation in student life as a class representative and member of the Student Office (BDE in french)
   - Graduation with honors
   - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
 - *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
