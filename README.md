@@ -12,6 +12,7 @@ For my surveillance, I use a lot [Feedly](https://feedly.com) for sources and Tw
 - 💡I have also skills in: Java, Python, SEO, UX Design, Design Thinking and Agility (Scrum and Kanban)
 - 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
+- ✒️3 words to describe myself: curiosity, versatility, perseverance
 
 I share a part of my knowledge with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
@@ -70,8 +71,8 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 #### 👨‍💻Formations / certifications
 - M2i Formation: Artificial Intelligence - Introduction (2020)
-- TOEIC: 645 points (2021)
-- Voltaire Project: 771 points (2018)
+- TOEIC: 845/990 (2021)
+- Voltaire Project: 771/1000 (2018)
 - OpenClassrooms: UX design, Design Thinking, Devops with Docker, Community Management
 
 ---
