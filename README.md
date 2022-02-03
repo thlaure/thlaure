@@ -2,7 +2,7 @@
 
 I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
-In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, sustainable development, human rights, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management and many others professional skills.
+In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, sustainable development, human rights, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many others professional skills.
 For my surveillance, I use a lot [Feedly](https://feedly.com) for sources and Twitter to follow some personnalities.
 
 #### 🐱‍💻About me
@@ -66,7 +66,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
   - Development of a login portal to connect Moodle database to HubSpot contact list
   - Maintenance and migration of the association's website
-  - Monitoring news about green IT, sustainable development and Corporate Social Responsibility
+  - Monitoring news about green IT, sustainable development and CSR
   - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
 
 ---
