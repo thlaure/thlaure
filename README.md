@@ -23,6 +23,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Creation of a dev environment with Vagrant
   - Eco-design and green IT
   - In charge of the CSR Committee
+  - Commercial and technological watch
 - 09/2018 - 08/2021: **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
   - Work-study program with the CNAM IT engineering school
   - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
