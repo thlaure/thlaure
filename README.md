@@ -20,47 +20,47 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 ### 🖥️Professional experience
 
-- *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
-  - Front-end and back-end development of clients' website
-  - Creation of a dev environment with Vagrant
-  - Eco-design and green IT
-  - In charge of the CSR Committee
-  - Commercial and technological watch
+*09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
+- Front-end and back-end development of clients' website
+- Creation of a dev environment with Vagrant
+- Eco-design and green IT
+- In charge of the CSR Committee
+- Commercial and technological watch
 
-- *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
-  - Work-study program with the CNAM IT engineering school
-  - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
-  - Development of a Python Selenium web scraper for some websites
-  - Development of a PHP connector to transform the result of the Node.js web scraper into RSS feed
-  - Data management with PHP, JavaScript and Python
-  - Data visualization with [D3.js](https://d3js.org/) and [Chart.js](https://www.chartjs.org/)
-  - Data extraction from many sources: CSV, XML, RSS feeds, websites without RSS feed
-  - Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
-  - CSR strategy proposal
-  - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
+*09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
+- Work-study program with the CNAM IT engineering school
+- Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
+- Development of a Python Selenium web scraper for some websites
+- Development of a PHP connector to transform the result of the Node.js web scraper into RSS feed
+- Data management with PHP, JavaScript and Python
+- Data visualization with [D3.js](https://d3js.org/) and [Chart.js](https://www.chartjs.org/)
+- Data extraction from many sources: CSV, XML, RSS feeds, websites without RSS feed
+- Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
+- CSR strategy proposal
+- **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 
-- *07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
-  - Development of an e-commerce website specialized on golf equipment
+*07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
+- Development of an e-commerce website specialized on golf equipment
 
-- *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
-  - Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
+*01/2018 - 02/2018* : BTS intership at CPAM of Toulon
+- Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
 
-- *05/2017 - 06/2017* : BTS internship at CPAM of Toulon
-  - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
+*05/2017 - 06/2017* : BTS internship at CPAM of Toulon
+- Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
 
 ### 🌍Personal investment
 
-- *Since 12/2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
-  - To raise awareness about climate crisis and understand its origins
+*Since 12/2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
+- To raise awareness about climate crisis and understand its origins
 
-- *2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
-  - Financial participation to develop durable and sustainbly innovations for a more desirable future
+*2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
+- Financial participation to develop durable and sustainbly innovations for a more desirable future
 
-- *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
-  - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
-  - Development of a login portal to connect Moodle database to HubSpot contact list
-  - Maintenance and migration of the association's website
-  - Monitoring news about green IT, sustainable development and CSR
+*2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
+- Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
+- Development of a login portal to connect Moodle database to HubSpot contact list
+- Maintenance and migration of the association's website
+- Monitoring news about green IT, sustainable development and CSR
 
 ---
 
