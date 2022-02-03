@@ -32,6 +32,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Data visualisation with [D3.js](https://d3js.org/) and [Chart.js](https://www.chartjs.org/)
   - Data extraction from many sources: CSV, XML, RSS feeds, websites without RSS
   - Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
+  - CSR strategy proposal
   - Thesis topic: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 - 07/2018 - 11/2018: **Freelance Symfony developer** - Toulon
   - Development of an e-commerce website specialized on golf equipment
