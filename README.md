@@ -2,7 +2,7 @@
 
 I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
-In my free time, I love reading books, listening podcasts about many subjets such as philosophy, nature, energy, environment, sustainable development, human rights, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many others professional skills.
+In my free time, I love reading books, listening podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many others professional skills.
 For my surveillance, I use a lot [Feedly](https://feedly.com) for sources and Twitter to follow some personnalities.
 
 #### 🐱‍💻About me
