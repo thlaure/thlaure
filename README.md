@@ -39,10 +39,8 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Development of an e-commerce website specialized on golf equipment
 - *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
   - Design of the project's database, and participated in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
-  - Project currently in production: [Rezone](https://rezone.ameli.fr/rezone/)
 - *05/2017 - 06/2017* : BTS internship at CPAM of Toulon
   - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
-  - Project currently in production
 
 #### 🌍Personal investment
 - *Since 12/2021* : Animator of the Climate Fresk
