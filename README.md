@@ -18,14 +18,12 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 ---
 
 #### 🖥️Professional experience
-
 - *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
   - Front-end and back-end development of clients' website
   - Creation of a dev environment with Vagrant
   - Eco-design and green IT
   - In charge of the CSR Committee
   - Commercial and technological watch
-
 - *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
   - Work-study program with the CNAM IT engineering school
   - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
@@ -37,14 +35,11 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
   - CSR strategy proposal
   - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
-
 - *07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
   - Development of an e-commerce website specialized on golf equipment
-
 - *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
   - Design of the project's database, and participated in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
   - Project currently in production: [Rezone](https://rezone.ameli.fr/rezone/)
-
 - *05/2017 - 06/2017* : BTS internship at CPAM of Toulon
   - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
   - Project currently in production
