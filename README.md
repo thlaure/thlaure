@@ -45,13 +45,10 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Project currently in production
 
 #### 🌍Personal investment
-
 - *Since 12/2021* : Animator of the Climate Fresk
   - To raise awareness about climate crisis and understand its origins
-
 - *2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
   - Financial particitation to develop durable and sustainbly innovations for a more desirable future
-
 - *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
   - Development of a login portal to connect Moodle database to HubSpot contact list
   - Maintenance and migration of the association's website
@@ -59,26 +56,21 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
   - Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
 
 #### 👨‍🎓Education
-
 - *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
   - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation
   - Last year option: cybersecurity
   - Participation in student life as a class representative and member of the Student Office (BDE in french).
   - Graduation with honors
   - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
-
 - *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
   - OOP, web development, databases, basis of network management, algorithmics, Android development, Agile management, cybersecurity
   - [CyberEdu](https://www.cyberedu.fr/pages/label-2019-001/) certified training
   - 2nd in inter-academic ranking
-
 - *09/2015 - 04/2016* : 1 year at the University - Toulon
   - Learning generalities about IT and physics
-
 - *09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
 
 #### 👨‍💻Formations / certifications
-
 - M2i Formation: Artificial Intelligence - Introduction (2020)
 - TOEIC: 645 points (2021)
 - Voltaire Project: 771 points (2018)
