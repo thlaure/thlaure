@@ -19,14 +19,14 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
-*09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
+#### *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères
 - Front-end and back-end development of clients' website
 - Creation of a dev environment with Vagrant
 - Eco-design and green IT
 - In charge of the CSR Committee
 - Commercial and technological watch
 
-*09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
+#### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon
 - Work-study program with the CNAM IT engineering school
 - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
 - Development of a Python Selenium web scraper for some websites
@@ -38,24 +38,24 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - CSR strategy proposal
 - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 
-*07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
+#### *07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
 - Development of an e-commerce website specialized in golf equipment
 
-*01/2018 - 02/2018* : BTS intership at CPAM of Toulon
+#### *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
 - Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
 
-*05/2017 - 06/2017* : BTS internship at CPAM of Toulon
+#### *05/2017 - 06/2017* : BTS internship at CPAM of Toulon
 - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
 
 ### 🌍Personal investment
 
-*Since 2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
+#### *Since 2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
 - To raise awareness about climate crisis and understand its origins
 
-*Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
+#### *Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
-*2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
+#### *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
 - Association which aims to help companies to deploy CSR strategy to reduce their environmental impact, with an e-learning approach
 - Development of a login portal to connect Moodle database to HubSpot contact list
 - Maintenance and migration of the association's website
@@ -64,22 +64,22 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 ---
 
 ### 👨‍🎓Education
-*09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
+#### *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon
 - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis
 - Last year option: cybersecurity
 - Participation in student life as a class representative and member of the Student Office (BDE in french)
 - Graduation with honors
 - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
 
-*09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
+#### *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
 - OOP, web development, databases, basis of network management, IT asset management, algorithmics, Android development, Agile and project management, cybersecurity, economics and IT law
 - [CyberEdu](https://www.cyberedu.fr/pages/label-2019-001/) certified training
 - 2nd in inter-academic ranking
 
-*09/2015 - 04/2016* : 1 year at the University - Toulon
+#### *09/2015 - 04/2016* : 1 year at the University - Toulon
 - Learning basics about IT and physics
 
-*09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
+####*09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
 
 ### 👨‍💻Formations / certifications
 - M2i Formation: Artificial Intelligence - Introduction (2020)
