@@ -2,8 +2,8 @@
 
 I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
-In my free time, I love reading books, listening podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many others professional skills.
-For my surveillance, I use a lot [Feedly](https://feedly.com) for sources and Twitter to follow some personnalities.
+In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
+For my surveillance, I use [Feedly](https://feedly.com) a lot for sources and Twitter to follow some personnalities.
 
 #### 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
@@ -39,7 +39,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 
 *07/2018 - 11/2018* : **Freelance Symfony developer** - Toulon
-- Development of an e-commerce website specialized on golf equipment
+- Development of an e-commerce website specialized in golf equipment
 
 *01/2018 - 02/2018* : BTS intership at CPAM of Toulon
 - Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
@@ -56,7 +56,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
 *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
-- Association which aim to help companies to deploy CSR strategy to reduce their environmental impact, with a e-learning approach
+- Association which aims to help companies to deploy CSR strategy to reduce their environmental impact, with an e-learning approach
 - Development of a login portal to connect Moodle database to HubSpot contact list
 - Maintenance and migration of the association's website
 - Monitoring news about green IT, sustainable development and CSR
@@ -77,7 +77,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - 2nd in inter-academic ranking
 
 *09/2015 - 04/2016* : 1 year at the University - Toulon
-- Learning generalities about IT and physics
+- Learning basics about IT and physics
 
 *09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
 
