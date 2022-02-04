@@ -49,10 +49,10 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 ### 🌍Personal investment
 
-*Since 12/2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
+*Since 2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
 - To raise awareness about climate crisis and understand its origins
 
-*2021 - 2022* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
+*Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
 *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
