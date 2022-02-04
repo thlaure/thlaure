@@ -3,7 +3,7 @@
 I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
 In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
-For my surveillance, I use [Feedly](https://feedly.com) a lot for sources and Twitter to follow some personnalities.
+For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and Twitter to follow some personnalities.
 
 #### 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
