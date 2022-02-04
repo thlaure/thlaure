@@ -72,7 +72,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
 
 *09/2016 - 06/2018* : [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School, Toulon
-- OOP, web development, databases, basis of network management, IT asset management, algorithmics, Android development, Agile and project management, cybersecurity, economics and computer law
+- OOP, web development, databases, basis of network management, IT asset management, algorithmics, Android development, Agile and project management, cybersecurity, economics and IT law
 - [CyberEdu](https://www.cyberedu.fr/pages/label-2019-001/) certified training
 - 2nd in inter-academic ranking
 
