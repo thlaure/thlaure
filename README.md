@@ -80,7 +80,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 #### *09/2015 - 04/2016* : 1 year at the University - Toulon
 - Learning basics about IT and physics
 
-####*09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
+#### *09/2012 - 06/2015* : scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School, Hyères
 
 ### 👨‍💻Formations / certifications
 - M2i Formation: Artificial Intelligence - Introduction (2020)
