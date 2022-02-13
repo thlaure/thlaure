@@ -13,7 +13,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - 🌱I'm studying Golang, Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
-- 🔥My objective is to work on reconciling digital and environmental issues with software eco-design
+- 🔥My objective is to work on reconciling digital and environmental issues with software eco-design, to bring digital services in a world in energy contraction.
 
 I share a part of my knowledge with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
