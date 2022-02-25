@@ -17,6 +17,8 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 
 I share a part of my knowledge with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
+<a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="400" alt="Thomas L's Dev Card"/></a>
+
 ---
 
 ### 🖥️Professional experience
