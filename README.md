@@ -96,4 +96,6 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
 
+(Here)[https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/overlay/1635484994374/single-media-viewer/] you can find my resume (in french) !
+
 <a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card"/></a>
