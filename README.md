@@ -32,7 +32,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
 - Development of a Python Selenium web scraper for some websites
 - Development of a PHP connector to transform the result of the Node.js web scraper into RSS feed
-- Data management with PHP, JavaScript and Python
+- Data management with PHP, JavaScript and Python (in part with [Jupyter](https://jupyter.org/))
 - Data visualization with [D3.js](https://d3js.org/) and [Chart.js](https://www.chartjs.org/)
 - Data extraction from many sources: CSV, XML, RSS feeds, websites without RSS feed
 - Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
@@ -66,7 +66,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 
 ### 👨‍🎓Education
 #### *09/2018 - 08/2021* : [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp) - Toulon (83)
-- OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis
+- OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis, low level networking
 - Last year option: cybersecurity
 - Participation in student life as a class representative and member of the Student Office (BDE in french)
 - Graduation with honors
