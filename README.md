@@ -58,9 +58,9 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 #### *Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate and shareholder**
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
-#### *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer fullstack web developer**
+#### *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer web developer**
 - Association which aims to help companies to deploy CSR strategy to reduce their environmental impact, with an e-learning approach
-- Development of a login portal to connect Moodle database to HubSpot contact list
+- Development of a login portal to connect Moodle database to HubSpot contact list, in HTML/CSS/JavaScript/PHP
 - Maintenance and migration of the association's website
 - Monitoring news about green IT, sustainable development and CSR
 
