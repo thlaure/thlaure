@@ -27,7 +27,8 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - Creation of a dev environment with Vagrant
 - Eco-design and green IT
 - In charge of the CSR Committee
-- Commercial and technological watch
+- Setting up a technological and commercial monitoring environment
+- Redesign of the e-mail alert system
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
