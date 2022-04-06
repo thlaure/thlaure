@@ -24,7 +24,7 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 ### 🖥️Professional experience
 #### *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
 - Front-end and back-end development of clients' website
-- Creation of a dev environment with Vagrant
+- Creation of a dev environment with Vagrant and WSL2
 - Eco-design and green IT
 - In charge of the CSR Committee
 - Setting up a technological and commercial monitoring environment
