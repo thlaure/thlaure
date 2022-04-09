@@ -17,7 +17,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 
 I share a part of my knowledge with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
-#### [Here](https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/overlay/1635484994374/single-media-viewer/) you can find my resume (in french) !
+#### [Here](https://docs.google.com/document/d/1Q9gT_AfF5O1saPtMAOfvlJQtZOJHM01HHoiTmBPKTbM/edit?usp=sharing) you can find my resume (in french) !
 
 ---
 
