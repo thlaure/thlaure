@@ -90,6 +90,8 @@ I share a part of my knowledge with my [Notion personal page](https://www.notion
 - TOEIC: 845/990 (2021)
 - Voltaire Project: 771/1000 (2018)
 - OpenClassrooms: UX design, Design Thinking, Devops with Docker, Community Management, digital marketing, team management, entrepreneurship
+- Udemy: Ethical hacking
+- CNIL: GDPR workshops 1, 2, 3, 4, 5
 
 ---
 
