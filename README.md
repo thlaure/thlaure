@@ -15,7 +15,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
 - 🔥My objective is to work on reconciling digital and environmental issues with software eco-design, to bring digital services in a world in energy contraction.
 
-I share a part of my knowledge with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
+I share a part of what I learn with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
 #### [Here](https://docs.google.com/document/d/1Q9gT_AfF5O1saPtMAOfvlJQtZOJHM01HHoiTmBPKTbM/edit?usp=sharing) you can find my resume (in french) !
 
