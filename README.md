@@ -22,7 +22,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
-#### *09/2021 - today* : **Fullstack web developer** in R&D team at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
+#### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
 - Front-end and back-end development of clients' website
 - Creation of a dev environment with Vagrant and WSL2
 - Eco-design and green IT
