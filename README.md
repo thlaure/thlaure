@@ -29,6 +29,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - In charge of the CSR Committee
 - Setting up a technological and commercial monitoring environment
 - Redesign of the e-mail alert system
+- Symfony project to create API keys and subscribers to use an external API
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
