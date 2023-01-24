@@ -9,8 +9,8 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm
 - 🧰With the following languages and frameworks: HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, PHP, Symfony
-- 💡I have also skills in: Java, Python, SEO, UX Design, Design Thinking, Agility (Scrum and Kanban) and Photoshop
-- 🌱I'm studying Golang, Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
+- 💡I have also skills in: Java, Python, UX Design, Design Thinking, Agility (Scrum and Kanban) and Photoshop
+- 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
 - 🔥My objective is to work on reconciling digital and environmental issues with software eco-design, to bring digital services in a world in energy contraction.
