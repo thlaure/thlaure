@@ -97,7 +97,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 #### 📬Get in touch
-- Mail: thomas.laure@ik.me
+- Mail: thomaslaure3@gmail.com
 - Twitter: [@laure_th](https://twitter.com/laure_th)
 - LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
