@@ -1,15 +1,15 @@
 ### Hi there 👋, I am Thomas Laure!
 
-I'm a french IT Engineer and junior fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
+I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
 In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
 For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and Twitter to follow some personnalities.
 
 #### 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
-- 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm
+- 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm, Docker
 - 🧰With the following languages and frameworks: HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, PHP, Symfony
-- 💡I have also skills in: Java, Python, UX Design, Design Thinking, Agility (Scrum and Kanban) and Photoshop
+- 💡I have also skills in: Java, Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban) and Photoshop
 - 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
@@ -30,6 +30,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - Setting up a technological and commercial monitoring environment
 - Redesign of the e-mail alert system
 - Symfony project to create API keys and subscribers to use an external API
+- Microservice development with Node.js to call Deepl API
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
