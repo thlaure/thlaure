@@ -9,7 +9,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm, Docker
 - 🧰With the following languages and frameworks: HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, PHP, Symfony
-- 💡I have also skills in: Java, Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban) and Photoshop
+- 💡I have also skills in: Java, Python, Prompt Engineering, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban), Photoshop
 - 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
@@ -24,13 +24,13 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ### 🖥️Professional experience
 #### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
 - Front-end and back-end development of clients' website
-- Creation of a dev environment with Vagrant and WSL2
+- Handling technical debt and refactoring: alert mail system, search engine, estimation form, translations, back-office and editorial system
+- Creation of a dev environment with Vagrant, WSL2 and Docker
 - Eco-design and green IT
 - In charge of the CSR Committee
 - Setting up a technological and commercial monitoring environment
-- Redesign of the e-mail alert system
 - Symfony project to create API keys and subscribers to use an external API
-- Microservice development with Node.js to call Deepl API
+- Microservice development with Node.js to call external API
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
