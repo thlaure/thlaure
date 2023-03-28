@@ -22,14 +22,17 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
+#### *03/2023 - today* : **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp) - Toulon (83)
+- A one-day course per year about ecological and energy transition, digital sobriety, and software ec-design
+
 #### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
 - Front-end and back-end development of clients' website
-- Handling technical debt and refactoring: alert mail system, search engine, estimation form, translations, back-office and editorial system
+- Handling technical debt and refactoring
 - Creation of a dev environment with Vagrant, WSL2 and Docker
 - Eco-design and green IT
 - In charge of the CSR Committee
 - Setting up a technological and commercial monitoring environment
-- Symfony project to create API keys and subscribers to use an external API
+- Development of internal tools with Symfony and API Platform
 - Microservice development with Node.js to call external API
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
