@@ -26,14 +26,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - A one-day course per year about ecological and energy transition, digital sobriety, and software ec-design
 
 #### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
-- Front-end and back-end development of clients' website
-- Handling technical debt and refactoring
-- Creation of a dev environment with Vagrant, WSL2 and Docker
-- Eco-design and green IT
-- In charge of the CSR Committee
-- Setting up a technological and commercial monitoring environment
-- Development of internal tools with Symfony and API Platform
-- Microservice development with Node.js to call external API
+
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
