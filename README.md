@@ -17,7 +17,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 
 I share a part of what I learn with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
-#### [Here](https://docs.google.com/document/d/1Q9gT_AfF5O1saPtMAOfvlJQtZOJHM01HHoiTmBPKTbM/edit?usp=sharing) you can find my resume (in french) !
+#### [Here](https://docs.google.com/document/d/1Q9gT_AfF5O1saPtMAOfvlJQtZOJHM01HHoiTmBPKTbM/edit?usp=sharing) you can find my resume (in french)!
 
 ---
 
@@ -26,7 +26,16 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - A one-day course per year about ecological and energy transition, digital sobriety, and software ec-design
 
 #### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
-
+- Participation in front-end and back-end development of customer site templates
+- Maintenance and evolution of in-house PHP framework
+- Overhaul of e-mail alert system
+- Set up a collaborative monitoring system within R&D
+- Implementation of a development environment based on WSL2 and then Docker
+- Reduction of technical debt 
+- Integration of a partner's API for the property valuation module on customer sites
+- Development of internal Symfony and API Platform tools
+- Conduct code reviews and ensure that our Git flow standards are respected
+- GA4 API integration for our backoffice
 
 #### *09/2018 - 08/2021* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
 - Work-study program with the CNAM IT engineering school
