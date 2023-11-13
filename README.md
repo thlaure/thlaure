@@ -8,7 +8,7 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 #### 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm, Docker, GitHub Copilot
-- 🧰With the following languages and frameworks: HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, PHP, Symfony, API Platform
+- 🧰With the following languages and frameworks: HTML/CSS, Sass, Bootstrap, jQuery, JavaScript, Node.js, Express, React, PHP, Symfony, API Platform
 - 💡I have also skills in: Java, Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban)
 - 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
@@ -23,7 +23,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 
 ### 🖥️Professional experience
 #### *03/2023 - today* : **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp) - Toulon (83)
-- A one-day course per year about ecological and energy transition, digital sobriety, and software ec-design
+- A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
 
 #### *09/2021 - today* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
 - Participation in front-end and back-end development of customer site templates
