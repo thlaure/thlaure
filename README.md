@@ -61,6 +61,8 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 #### BTS internship at CPAM of Toulon (83) - *05/2017 - 06/2017 - 6 weeks*
 - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
 
+---
+
 ### 🌍Personal investment
 
 #### Facilitator of [The Climate Fresk](https://fresqueduclimat.org/) - *Since 2021*
