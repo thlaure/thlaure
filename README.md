@@ -22,13 +22,13 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
-#### *12/2023 - today* : **Lead Developer** at [Fortil](https://fortil.group/) - La Seyne-sur-Mer (83)
+#### **Lead Developer** at [Fortil](https://fortil.group/) - La Seyne-sur-Mer (83) - *12/2023 - today*
 - On assignment at Mutuelle Verte in Toulon (83)
 
-#### *03/2023 - today* : **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp) - Toulon (83)
+#### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp) - Toulon (83) - *03/2023 - today*
 - A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
 
-#### *09/2021 - 12/2023 - 2 years and 4 months* : **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83)
+#### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - Hyères (83) - *09/2021 - 12/2023 - 2 years and 4 months*
 - Participation in front-end and back-end development of customer site templates
 - Maintenance and evolution of in-house PHP framework
 - Overhaul of e-mail alert system
@@ -40,7 +40,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - Conduct code reviews and ensure that our Git flow standards are respected
 - GA4 API integration for our backoffice
 
-#### *09/2018 - 08/2021 - 3 years* : **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83)
+#### **Fullstack web developer** at [Coexel](https://www.coexel.com/) - Toulon (83) - *09/2018 - 08/2021 - 3 years*
 - Work-study program with the CNAM IT engineering school
 - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
 - Development of a Python Selenium web scraper for some websites
@@ -52,24 +52,24 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - CSR strategy proposal
 - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 
-#### *07/2018 - 11/2018 - 6 months* : **Freelance Symfony developer** - Toulon (83)
+#### **Freelance Symfony developer** - Toulon (83) - *07/2018 - 11/2018 - 6 months*
 - Development of an e-commerce website specialized in golf equipment
 
-#### *01/2018 - 02/2018 - 6 weeks* : BTS intership at CPAM of Toulon (83)
+#### BTS intership at CPAM of Toulon (83) - *01/2018 - 02/2018 - 6 weeks*
 - Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
 
-#### *05/2017 - 06/2017 - 6 weeks* : BTS internship at CPAM of Toulon (83)
+#### BTS internship at CPAM of Toulon (83) - *05/2017 - 06/2017 - 6 weeks*
 - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
 
 ### 🌍Personal investment
 
-#### *Since 2021* : Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
+#### Facilitator of [The Climate Fresk](https://fresqueduclimat.org/) - *Since 2021*
 - To raise awareness about climate crisis and understand its origins
 
-#### *Since 2021* : [Time for the Planet](https://www.time-planet.com/en) **associate, shareholder and project evaluator**
+#### **Associate, shareholder and project evaluator** at [Time for the Planet](https://www.time-planet.com/en) - *Since 2021*
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
-#### *2021* : [We Act 4 Earth](https://weact4earth.fr/) **volunteer web developer**
+#### **Volunteer web developer** at [We Act 4 Earth](https://weact4earth.fr/) *2021*
 - Association which aims to help companies to deploy CSR strategy to reduce their environmental impact, with an e-learning approach
 - Development of a login portal to connect Moodle database to HubSpot contact list, in HTML/CSS/JavaScript/PHP
 - Maintenance and migration of the association's website
