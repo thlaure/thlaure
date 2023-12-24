@@ -23,7 +23,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 
 ### 🖥️Professional experience
 #### **Lead Developer** at [Fortil](https://fortil.group/)
-*12/2023 - today / On site / La Seyne-sur-Mer (83)*
+<sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
 - On assignment at Mutuelle Verte in Toulon (83)
 
 #### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
