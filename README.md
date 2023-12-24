@@ -27,11 +27,11 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - On assignment at Mutuelle Verte in Toulon (83)
 
 #### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
-*03/2023 - today / On site / Toulon (83)*
+<sub>*03/2023 - today / On site / Toulon (83)*</sub>
 - A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
 
-#### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/)
-*09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*
+#### **Fullstack web engineer** at [La Boîte Immo](https://www.la-boite-immo.com/)
+<sub>*09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*</sub>
 - Participation in front-end and back-end development of customer site templates
 - Maintenance and evolution of in-house PHP framework
 - Overhaul of e-mail alert system
@@ -44,11 +44,11 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - GA4 API integration for our backoffice
 
 #### **Freelance writer** at [CoderPad](https://coderpad.io/)
-*08/2022 - 10/2022 / Full remote / San Francisco*
+<sub>*08/2022 - 10/2022 / Full remote / San Francisco*</sub>
 - Writing an article in English on web eco-design for the CoderPad blog (4000 words): [The Environmental Impact of Digital Technology and How Software Eco-Design Can Help](https://coderpad.io/blog/engineering-management/the-environmental-impact-of-digital-technology-and-how-software-eco-design-can-help/)
 
-#### **Fullstack web developer** at [Coexel](https://www.coexel.com/) 
-*09/2018 - 08/2021 / 3 years / Hybrid / Toulon (83)*
+#### **Fullstack web developer** at [Coexel](https://www.coexel.com/)
+<sub>*09/2018 - 08/2021 / 3 years / Hybrid / Toulon (83)*</sub>
 - Work-study program with the CNAM IT engineering school
 - Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
 - Development of a Python Selenium web scraper for some websites
@@ -61,15 +61,15 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
 
 #### **Freelance Symfony developer**
-*07/2018 - 11/2018 / 6 months / Full remote / Toulon (83)*
+<sub>*07/2018 - 11/2018 / 6 months / Full remote / Toulon (83)*</sub>
 - Development of an e-commerce website specialized in golf equipment
 
-#### BTS intership at CPAM of Toulon
-*01/2018 - 02/2018 / 6 weeks / On site / Toulon (83)*
+#### **BTS intership at CPAM of Toulon**
+<sub>*01/2018 - 02/2018 / 6 weeks / On site / Toulon (83)*</sub>
 - Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
 
 #### BTS internship at CPAM of Toulon
-*05/2017 - 06/2017 / 6 weeks / On site / Toulon (83)*
+<sub>*05/2017 - 06/2017 / 6 weeks / On site / Toulon (83)*</sub>
 - Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
 
 ---
@@ -77,15 +77,15 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ### 🌍Personal investment
 
 #### Facilitator of [The Climate Fresk](https://fresqueduclimat.org/)
-*Since 2021*
+<sub>*Since 2021*</sub>
 - To raise awareness about climate crisis and understand its origins
 
 #### **Associate, shareholder and project evaluator** at [Time for the Planet](https://www.time-planet.com/en)
-*Since 2021*
+<sub>*Since 2021*</sub>
 - Financial participation to develop durable and sustainbly innovations for a more desirable future
 
 #### **Volunteer web developer** at [We Act 4 Earth](https://weact4earth.fr/)
-*01/2021 - 12/2021 / Full remote*
+<sub>*01/2021 - 12/2021 / Full remote*</sub>
 - Association which aims to help companies to deploy CSR strategy to reduce their environmental impact, with an e-learning approach
 - Development of a login portal to connect Moodle database to HubSpot contact list, in HTML/CSS/JavaScript/PHP
 - Maintenance and migration of the association's website
@@ -95,7 +95,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 
 ### 👨‍🎓Education
 #### [CNAM IT engineering school](https://formation.cnam.fr/rechercher-par-discipline/ingenieur-e-informatique-et-multimedia-technologies-du-jeu-video-et-systemes-interactifs-1275873.kjsp)
-*09/2018 - 08/2021 / Toulon (83)*
+<sub>*09/2018 - 08/2021 / Toulon (83)*</sub>
 - OOP, web development, algorithmics, Unity3D, signal processing, databases, UX/UI design, Agile and team management, software engineering, entrepreneurship, OS theory, cognitive psychology, introduction to research and innovation, sentiment analysis, low level networking
 - Last year option: cybersecurity
 - Participation in student life as a class representative and member of the Student Office (BDE in french)
@@ -103,17 +103,17 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 - **Thesis topic**: *News extraction from websites with a semi-automated algorithm*
 
 #### [BTS SIO](https://bts-sio.lyc-bonaparte.fr/) SLAM - Bonaparte High School
-*09/2016 - 06/2018 / Toulon (83)*
+<sub>*09/2016 - 06/2018 / Toulon (83)*</sub>
 - OOP, web development, databases, basis of network management, IT asset management, algorithmics, Android development, Agile and project management, cybersecurity, economics and IT law
 - [CyberEdu](https://www.cyberedu.fr/pages/label-2019-001/) certified training
 - 2nd in inter-academic ranking
 
 ####  1 year at the University of Toulon
-*09/2015 - 04/2016 / La Garde (83)*
+<sub>*09/2015 - 04/2016 / La Garde (83)*</sub>
 - Learning basics about IT and physics
 
 #### Scientific bachelor's degree in engineer sciences (Bac S SI) - Costebelle High School
-*09/2012 - 06/2015 / Hyères (83)*
+<sub>*09/2012 - 06/2015 / Hyères (83)*</sub>
 
 ### 👨‍💻Formations / certifications
 - M2i Formation: Artificial Intelligence - Introduction (2020)
