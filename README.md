@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Thomas Laure!
 
-I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
+I'm a french fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
 In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
 For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and X to follow some personnalities.
