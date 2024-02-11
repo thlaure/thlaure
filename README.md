@@ -3,13 +3,13 @@
 I'm a french IT Engineer and fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
 
 In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
-For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and Twitter to follow some personnalities.
+For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and X to follow some personnalities.
 
 #### 🐱‍💻About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
-- 💻I daily use: VS Code, GNU/Linux, Git, MySQL, PhpStorm, Docker, GitHub Copilot
+- 💻I daily use: VS Code, GNU/Linux, Git, MySQL, Docker, GitHub Copilot
 - 🧰With the following languages and frameworks: PHP, Symfony, API Platform, JavaScript, Node.js, Express, React, HTML and CSS
-- 💡I have also skills in: Java, Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban)
+- 💡I have also skills in: Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban)
 - 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
@@ -25,12 +25,15 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 #### **Lead Developer** at [Fortil](https://fortil.group/)
 <sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
 - On assignment at Mutuelle Verte in Toulon (83)
+- Rewriting of a C# webservice into a Symfony API
+- Creation of a Docker for the development environment
+- Technical management of the webdev team
 
 #### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
 <sub>*03/2023 - today / On site / Toulon (83)*</sub>
 - A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
 
-#### **Fullstack web engineer** at [La Boîte Immo](https://www.la-boite-immo.com/)
+#### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/)
 <sub>*09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*</sub>
 - Participation in front-end and back-end development of customer site templates
 - Maintenance and evolution of in-house PHP framework
