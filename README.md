@@ -22,8 +22,9 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
-#### **Lead Developer** at [Fortil](https://fortil.group/)
+#### **PHP Consultant** at [Fortil](https://fortil.group/)
 <sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
+
 On assignment at Mutuelle Verte in Toulon (83) as a lead developer:
 - Helped redesign a C# webservice into a Symfony API
 - Roadmap writing
