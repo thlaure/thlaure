@@ -24,10 +24,21 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ### 🖥️Professional experience
 #### **Lead Developer** at [Fortil](https://fortil.group/)
 <sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
-- On assignment at Mutuelle Verte in Toulon (83)
-- Rewriting of a C# webservice into a Symfony API
-- Creation of a Docker for the development environment
-- Technical management of the webdev team
+On assignment at Mutuelle Verte in Toulon (83) as a lead developer:
+- Helped redesign a C# webservice into a Symfony API
+- Roadmap writing
+- Maintenance and development of the Mutuelle Verte's tools with Symfony, particularly in terms of form security
+- Dockerization of the mutual's services
+- Participation in setting up a remote development environment using Coder
+- Migration of MSSQL databases and SSIS batches
+- Writing PHPUnit unit tests
+- Writing Behat functional tests
+
+Technical stack: Symfony, JavaScript, Linux, MSSQL, AS400, MySQL, Jenkins, Sentry, GitLab, Behat, PHPStan, PHPCS
+
+For Fortil :
+- Conduct technical interviews
+- Development of an internal event management application: Symfony, HTML, CSS, JavaScript, PostgreSQL, Docker, PHPUnit, PHPStan, CS Fixer
 
 #### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
 <sub>*03/2023 - today / On site / Toulon (83)*</sub>
