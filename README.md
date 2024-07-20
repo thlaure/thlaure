@@ -25,7 +25,7 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 #### **PHP Consultant** at [Fortil](https://fortil.group/)
 <sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
 
-On assignment at Mutuelle Verte in Toulon (83) as a lead developer:
+On assignment at Mutuelle Verte in Toulon (83) as a tech lead:
 - Helped redesign a C# webservice into a Symfony API
 - Roadmap writing
 - Maintenance and development of the Mutuelle Verte's tools with Symfony, particularly in terms of form security
