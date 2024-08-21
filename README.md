@@ -145,7 +145,7 @@ For Fortil :
 - Bluesky: [@thomaslaure.bsky.social](https://bsky.app/profile/thomaslaure.bsky.social)
 - Thread: [thomas__laure](https://www.threads.net/@thomas__laure)
 - X: [@laure_th](https://twitter.com/laure_th)
-- LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-ingenieur-developpeur-web/)
+- LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-software-engineer/)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
 
 <a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card"/></a>
