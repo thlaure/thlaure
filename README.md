@@ -9,8 +9,8 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use: VS Code, GNU/Linux, Git, MySQL, Docker, GitHub Copilot
 - 🧰With the following languages and frameworks: PHP, Symfony, API Platform, JavaScript, Node.js, Express, React, HTML and CSS
-- 💡I have also skills in: Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban)
-- 🌱I'm studying Big Data, IA, cybersecurity and DevOps methodology with Docker in my free time
+- 💡I have also skills in: DevOps (Docker, CI/CD), Python, UML, specifications writing, UX Design, Design Thinking, Agility (Scrum and Kanban)
+- 🌱I'm studying Big Data, IA, cybersecurity in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
 - 🔥My objective is to work on reconciling digital and environmental issues with software eco-design, to bring digital services in a world in energy contraction.
@@ -22,8 +22,25 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 ---
 
 ### 🖥️Professional experience
+
+#### **Fullstack developer** at [VarSports](https://varsports.fr)
+<sub>*06/2024 - today / Full remote / Toulon (83)*</sub>
+
+VarSports is a website designed to promote sporting activities in the Var region, through its clubs, their news and events.
+- Redesign of the website from WordPress to Symfony (front-end and back-end)
+- Secure forms
+- Installation of a Docker development environment (FrankenPHP)
+- Data migration from old database to new one
+- Advice on choice of technologies (CMS vs. framework)
+- Implementation of a CI/CD
+- Writing unit and functional tests with PHPUnit
+
+#### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
+<sub>*03/2023 - today / On site / Toulon (83)*</sub>
+- A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
+
 #### **PHP Consultant** at [Fortil](https://fortil.group/)
-<sub>*12/2023 - today / On site / La Seyne-sur-Mer (83)*</sub>
+<sub>*12/2023 - 11/2024 / 11 months / On site / La Seyne-sur-Mer (83)*</sub>
 
 On assignment at Mutuelle Verte in Toulon (83) as a tech lead:
 - Helped redesign a C# webservice into a Symfony API
@@ -40,10 +57,6 @@ Technical stack: Symfony, JavaScript, Linux, MSSQL, AS400, MySQL, Jenkins, Sentr
 For Fortil :
 - Conduct technical interviews
 - Development of an internal event management application: Symfony, HTML, CSS, JavaScript, PostgreSQL, Docker, PHPUnit, PHPStan, CS Fixer
-
-#### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
-<sub>*03/2023 - today / On site / Toulon (83)*</sub>
-- A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
 
 #### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/)
 <sub>*09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*</sub>
@@ -142,10 +155,10 @@ For Fortil :
 
 #### 📬Get in touch
 - Mail: thomaslaure3@gmail.com
+- LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-software-engineer/)
+- X: [@laure_th](https://twitter.com/laure_th)
 - Bluesky: [@thomaslaure.bsky.social](https://bsky.app/profile/thomaslaure.bsky.social)
 - Thread: [thomas__laure](https://www.threads.net/@thomas__laure)
-- X: [@laure_th](https://twitter.com/laure_th)
-- LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-software-engineer/)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
 
 <a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card"/></a>
