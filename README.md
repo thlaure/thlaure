@@ -13,7 +13,6 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - 🌱I'm studying Big Data, IA, cybersecurity in my free time
 - 📚I love learning new things to expand my profesionnal knowlegde and my personal culture
 - ✒️3 words to describe myself: curiosity, versatility, perseverance
-- 🔥My objective is to work on reconciling digital and environmental issues with software eco-design, to bring digital services in a world in energy contraction.
 
 I share a part of what I learn with my [Notion personal page](https://www.notion.so/thomaslaure/Cours-90dd3c4539aa454db265b246eafc46d2) (in french).
 
@@ -23,82 +22,23 @@ I share a part of what I learn with my [Notion personal page](https://www.notion
 
 ### 🖥️Professional experience
 
-#### **Fullstack developer** at [VarSports](https://varsports.fr)
-<sub>*06/2024 - today / Full remote / Toulon (83)*</sub>
+##### **Fullstack developer** at [VarSports](https://varsports.fr) - *06/2024 - today / Full remote / Toulon (83)*
 
-VarSports is a website designed to promote sporting activities in the Var region, through its clubs, their news and events.
-- Redesign of the website from WordPress to Symfony (front-end and back-end)
-- Secure forms
-- Installation of a Docker development environment (FrankenPHP)
-- Data migration from old database to new one
-- Advice on choice of technologies (CMS vs. framework)
-- Implementation of a CI/CD
-- Writing unit and functional tests with PHPUnit
+##### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp) - *03/2023 - today / On site / Toulon (83)*
 
-#### **Temporary teacher** at [CNAM Engineering School](https://ecole-ingenieur.cnam.fr/eicnam-ecole-d-ingenieur-e-s-/ecole-d-ingenieur-e-s-1000-ingenieurs-diplomes-chaque-annee-en-formation-continue-820776.kjsp)
-<sub>*03/2023 - today / On site / Toulon (83)*</sub>
-- A one-day course per year about ecological and energy transition, digital sobriety, and software eco-design
+##### **PHP Consultant** at [Fortil](https://fortil.group/) - *12/2023 - 11/2024 / 11 months / On site / La Seyne-sur-Mer (83)*
 
-#### **PHP Consultant** at [Fortil](https://fortil.group/)
-<sub>*12/2023 - 11/2024 / 11 months / On site / La Seyne-sur-Mer (83)*</sub>
+##### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/) - *09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*
 
-On assignment at Mutuelle Verte in Toulon (83) as a tech lead:
-- Helped redesign a C# webservice into a Symfony API
-- Roadmap writing
-- Maintenance and development of the Mutuelle Verte's tools with Symfony, particularly in terms of form security
-- Dockerization of the mutual's services
-- Participation in setting up a remote development environment using Coder
-- Migration of MSSQL databases and SSIS batches
-- Writing PHPUnit unit tests
-- Writing Behat functional tests
+##### **Freelance writer** at [CoderPad](https://coderpad.io/) - *08/2022 - 10/2022 / Full remote / San Francisco*
 
-Technical stack: Symfony, JavaScript, Linux, MSSQL, AS400, MySQL, Jenkins, Sentry, GitLab, Behat, PHPStan, PHPCS
+##### **Fullstack web developer** at [Coexel](https://www.coexel.com/) - *09/2018 - 08/2021 / 3 years / Hybrid / Toulon (83)*
 
-For Fortil :
-- Conduct technical interviews
-- Development of an internal event management application: Symfony, HTML, CSS, JavaScript, PostgreSQL, Docker, PHPUnit, PHPStan, CS Fixer
+##### **Freelance Symfony developer** - *07/2018 - 11/2018 / 6 months / Full remote / Toulon (83)*
 
-#### **Fullstack web developer** at [La Boîte Immo](https://www.la-boite-immo.com/)
-<sub>*09/2021 - 12/2023 / 2 years and 4 months / Hybrid / Hyères (83)*</sub>
-- Participation in front-end and back-end development of customer site templates
-- Maintenance and evolution of in-house PHP framework
-- Overhaul of e-mail alert system
-- Set up a collaborative monitoring system within R&D
-- Implementation of a development environment based on WSL2 and then Docker
-- Reduction of technical debt 
-- Integration of a partner's API for the property valuation module on customer sites
-- Development of internal Symfony and API Platform tools
-- Conduct code reviews and ensure that our Git flow standards are respected
-- GA4 API integration for our backoffice
+##### **BTS intership at CPAM of Toulon** - *01/2018 - 02/2018 / 6 weeks / On site / Toulon (83)*
 
-#### **Freelance writer** at [CoderPad](https://coderpad.io/)
-<sub>*08/2022 - 10/2022 / Full remote / San Francisco*</sub>
-- Writing an article in English on web eco-design for the CoderPad blog (4000 words): [The Environmental Impact of Digital Technology and How Software Eco-Design Can Help](https://coderpad.io/blog/engineering-management/the-environmental-impact-of-digital-technology-and-how-software-eco-design-can-help/)
-
-#### **Fullstack web developer** at [Coexel](https://www.coexel.com/)
-<sub>*09/2018 - 08/2021 / 3 years / Hybrid / Toulon (83)*</sub>
-- Work-study program with the CNAM IT engineering school
-- Development of a Node.js web scraper, using JavaScript, [Express](https://expressjs.com/) and [Puppeteer](https://developers.google.com/web/tools/puppeteer/)
-- Development of a Python Selenium web scraper for some websites
-- Development of a PHP connector to transform the result of the Node.js web scraper into RSS feed
-- Data management with PHP, JavaScript and Python (in part with [Jupyter](https://jupyter.org/))
-- Data visualization with [D3.js](https://d3js.org/) and [Chart.js](https://www.chartjs.org/)
-- Data extraction from many sources: CSV, XML, RSS feeds, websites without RSS feed
-- Development of new modules in HTML/CSS/JS/PHP for Mytwip, our watch product
-- CSR strategy proposal
-- **Thesis topic**: development of a semi-automated JavaScript algorithm to extract data from news websites, 70% of success
-
-#### **Freelance Symfony developer**
-<sub>*07/2018 - 11/2018 / 6 months / Full remote / Toulon (83)*</sub>
-- Development of an e-commerce website specialized in golf equipment
-
-#### **BTS intership at CPAM of Toulon**
-<sub>*01/2018 - 02/2018 / 6 weeks / On site / Toulon (83)*</sub>
-- Design of the project's database (PostgreSQL) and participation in the development of a Java EE web application and a JavaScript application that aim to help healthcare professionals find a settlement pool and invite them to settle in places where they are not very present.
-
-#### BTS internship at CPAM of Toulon
-<sub>*05/2017 - 06/2017 / 6 weeks / On site / Toulon (83)*</sub>
-- Participation in the development of a Java EE web application allowing the accounting department to identify cases of banking mobility among the insured.
+##### **BTS internship at CPAM of Toulon** - *05/2017 - 06/2017 / 6 weeks / On site / Toulon (83)*
 
 ---
 
