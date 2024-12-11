@@ -1,11 +1,10 @@
 ### Hi there 👋, I am Thomas Laure!
 
-I'm a french fullstack web developer. I like to explore new technologies and develop software solutions and quick hacks.
+I'm a french fullstack web developer. I like to explore new technologies, develop software solutions and quick hacks and I really love problem solving.
 
 In my free time, I love reading books, listening to podcasts about many subjects such as philosophy, nature, energy, environment, sustainable development, human societies, and many scientific topics🤓, and make a lot of surveillance about dev, tech in general, marketing, e-commerce, management, CSR (Corporate Social Responsibility) and many other professional skills.
-For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Daily Dev](https://daily.dev/) for dev surveillance, and X to follow some personnalities.
 
-#### 🐱‍💻About me
+#### 🤠About me
 - 👨‍🎓Engineer degree in Computer Science at le CNAM (France)
 - 💻I daily use: VS Code, GNU/Linux, Git, MySQL, Docker, GitHub Copilot
 - 🧰With the following languages and frameworks: PHP, Symfony, API Platform, JavaScript, Node.js, Express, React, HTML and CSS
@@ -24,6 +23,6 @@ For my surveillance, I use [Feedly](https://feedly.com) a lot for sources, [Dail
 - Thread: [thomas__laure](https://www.threads.net/@thomas__laure)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
 
-#### ☎️Or take an appointment with me on (Calendly)[https://calendly.com/thomaslaure3/30min]
+#### ☎️Or take an appointment with me on [Calendly](https://calendly.com/thomaslaure3/30min)
 
 <a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card"/></a>
