@@ -22,6 +22,6 @@ In my free time, I love reading books, listening to podcasts about many subjects
 - Bluesky: [@thomaslaure.bsky.social](https://bsky.app/profile/thomaslaure.bsky.social)
 - Reddit: [u/Merilthor](https://www.reddit.com/user/Merilthor)
 
-#### ☎️Or take an appointment with me on [Calendly](https://calendly.com/thomaslaure3/30min)
+### ☎️Or take an appointment with me on [Calendly](https://calendly.com/thomaslaure3/30min)
 
 <a href="https://app.daily.dev/Thomas_L"><img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card"/></a>
