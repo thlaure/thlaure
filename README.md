@@ -24,11 +24,13 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 
 ### 🌐 **Find Me Here**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thomas-laure-software-engineer/)  
-- 🐦 [X/Twitter](https://twitter.com/laure_th)  
-- 🔵 [Bluesky](https://bsky.app/profile/thomaslaure.bsky.social)  
-- 📧 [Email Me](mailto:thomaslaure3@gmail.com)  
-- 📅 [Schedule a Meeting](https://calendly.com/thomaslaure3/30min)  
+- 🔗 LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-software-engineer/)
+- 🐦 X/Twitter: [@laure_th](https://twitter.com/laure_th)
+- 🔵 Bluesky: [thomaslaure.bsky.social](https://bsky.app/profile/thomaslaure.bsky.social)
+- 🐘 Mastodon: [@thomas_laure](https://mastodon.social/@thomas_laure)
+- @ Threads: [@thomas__laure](https://www.threads.net/@thomas__laure?xmt=AQGzU39LeILFhhcxKZevmMQyp1ePXX6lVFk72MkNeCVHRK0)
+- 📧 Email Me: [thomaslaure3@gmail.com](mailto:thomaslaure3@gmail.com)
+- 📅 Schedule a Meeting: [Calendly](https://calendly.com/thomaslaure3/30min)
 
 ---
 
@@ -48,8 +50,3 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 <a href="https://app.daily.dev/Thomas_L">
   <img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card" />
 </a>
-
----
-
-### 💬 **Let's Connect!**
-I love collaborating on open-source projects, discussing new ideas, and helping others grow in their dev journey. Feel free to reach out! 🚀
