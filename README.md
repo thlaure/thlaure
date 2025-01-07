@@ -4,6 +4,8 @@ I'm a **French fullstack developer** with a passion for exploring new technologi
 
 I specialize in **PHP and Symfony** to develop **web applications, websites, and APIs** that are scalable and reliable.
 
+📫 How to reach me: [thoamslaure3@gmail.com](mailto:thomaslaure3@gmail.com)
+
 ---
 
 ### 🚀 **About Me**
