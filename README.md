@@ -13,7 +13,8 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 - 🧰 **Tech Stack**:  
   - **Languages**: PHP | JavaScript | HTML | CSS | Python  
   - **Frameworks**: Symfony | API Platform | Node.js | Express | React | Vue
-  - **DevOps**: Docker | CI/CD  
+  - **DevOps**: Docker | CI/CD
+  - **DBMS**: MySQL | MariaDB | PostgreSQL
 - 🧩 **Skills**: UX Design | Design Thinking | UML | Specifications Writing | Agility (Scrum & Kanban)
 - 🌱 Currently exploring: **Laravel, Next.js, Django**  
 - 📚 **Learning**: I enjoy books, podcasts, and expanding my professional and personal horizons.  
