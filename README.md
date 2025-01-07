@@ -22,18 +22,6 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 
 ---
 
-### 🌐 **Find Me Here**
-
-- 🔗 LinkedIn: [Thomas Laure](https://www.linkedin.com/in/thomas-laure-software-engineer/)
-- 🐦 X/Twitter: [@laure_th](https://twitter.com/laure_th)
-- 🔵 Bluesky: [thomaslaure.bsky.social](https://bsky.app/profile/thomaslaure.bsky.social)
-- 🐘 Mastodon: [@thomas_laure](https://mastodon.social/@thomas_laure)
-- @ Threads: [@thomas__laure](https://www.threads.net/@thomas__laure?xmt=AQGzU39LeILFhhcxKZevmMQyp1ePXX6lVFk72MkNeCVHRK0)
-- 📧 Email Me: [thomaslaure3@gmail.com](mailto:thomaslaure3@gmail.com)
-- 📅 Schedule a Meeting: [Calendly](https://calendly.com/thomaslaure3/30min)
-
----
-
 ### 🛠️ **Projects & Contributions**
 
 <a href="https://github.com/thlaure">
