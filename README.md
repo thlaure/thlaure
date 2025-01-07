@@ -4,13 +4,7 @@ I'm a **French fullstack developer** with a passion for exploring new technologi
 
 I specialize in **PHP and Symfony** to develop **web applications, websites, and APIs** that are scalable and reliable.
 
-📫 How to reach me: [thomaslaure3@gmail.com](mailto:thomaslaure3@gmail.com)
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/thomaslaure3/30min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff' }); }</script>
-<!-- Calendly badge widget end -->
+📫 How to reach me: [thomaslaure3@gmail.com](mailto:thomaslaure3@gmail.com) or schedule a meeting with me on [Calendly](https://calendly.com/thomaslaure3/30min)
 
 ---
 
