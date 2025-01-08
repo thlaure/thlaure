@@ -21,7 +21,7 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 - 🌱 Currently exploring: **Laravel, Next.js, Django**
 - 📚 **Learning**: I enjoy books, podcasts, and expanding my professional and personal horizons.
 
-➡️ Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/thomas-laure-software-engineer/)
+➡️ Learn more about **my experiences** on [LinkedIn](https://www.linkedin.com/in/thomas-laure-software-engineer/)
 
 ---
 
