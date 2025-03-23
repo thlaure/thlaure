@@ -25,17 +25,6 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 
 ---
 
-### 🛠️ **Projects & Contributions**
-
-<a href="https://github.com/thlaure">
-  <img src="https://github-readme-stats.vercel.app/api?username=thlaure&show_icons=true&theme=radical" width="48%" />
-</a>
-<a href="https://github.com/thlaure">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thlaure&layout=compact&theme=radical" width="48%" />
-</a>
-
----
-
 ### ✨ **My Dev Card**
 
 <a href="https://app.daily.dev/Thomas_L">
