@@ -27,6 +27,6 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 
 ### ✨ **My Dev Card**
 
-<a href="https://app.daily.dev/Thomas_L">
-  <img src="https://api.daily.dev/devcards/9cef2e19aa964ce4af7703c1f3c5c3ab.png?r=niu" width="300" alt="Thomas L's Dev Card" />
+<a href="https://app.daily.dev/thomas_l">
+  <img src="https://api.daily.dev/devcards/v2/3kS1x5X5e.png?type=wide&r=0el" width="652" alt="Thomas Laure's Dev Card"/>
 </a>
