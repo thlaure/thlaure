@@ -1,6 +1,6 @@
 ### Hi there 👋, **I'm Thomas Laure!**
 
-I'm a **French fullstack developer** with a passion for exploring new technologies, building efficient software solutions, and tackling complex problems. I thrive on curiosity, perseverance, and versatility.
+I'm a **French Software Engineer** with a passion for exploring new technologies, building efficient software solutions, and tackling complex problems. I thrive on curiosity, perseverance, and versatility.
 
 I specialize in **PHP and Symfony** to develop **web applications, websites, and APIs** that are scalable and reliable.
 
