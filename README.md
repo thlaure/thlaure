@@ -22,11 +22,3 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 - 📚 **Learning**: I enjoy books, podcasts, and expanding my professional and personal horizons.
 
 ➡️ Learn more about **my experiences** on [LinkedIn](https://www.linkedin.com/in/thomas-laure-software-engineer/)
-
----
-
-### ✨ **My Dev Card**
-
-<a href="https://app.daily.dev/thomas_l">
-  <img src="https://api.daily.dev/devcards/v2/3kS1x5X5e.png?type=wide&r=0el" width="652" alt="Thomas Laure's Dev Card"/>
-</a>
