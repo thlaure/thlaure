@@ -11,14 +11,15 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 ### 🚀 **About Me**
 
 - 🎓 **Engineer degree** in Computer Science at *Le CNAM (France)*
-- 💻 **Daily tools**: VS Code | Git | Docker | Windsurf | macOS
+- 💻 **Daily tools**: VS Code | Claude Code | macOS
 - 🧰 **Tech Stack**:
-  - **Languages**: PHP | JavaScript | HTML | CSS | Python
-  - **Frameworks**: Symfony | API Platform | Node.js | Express | React | Vue
+  - **Languages**: PHP | JavaScript | TypeScript | HTML | CSS | Python
+  - **Frameworks**: Symfony | API Platform | Node.js | Express | React
+  - **Architecture**: CQRS | Clean Architecture | Hexagonal Architecture | DDD
   - **DevOps**: Docker | CI/CD
   - **DBMS**: MySQL | MariaDB | PostgreSQL
 - 🧩 **Skills**: UX Design | Design Thinking | UML | Specifications Writing | Agility (Scrum & Kanban)
-- 🌱 Currently exploring: **Laravel, Next.js, Java Spring, Django**
+- 🌱 Currently exploring: **Laravel, Java Spring, Django**
 - 📚 **Learning**: I enjoy books, podcasts, and expanding my professional and personal horizons.
 
 ➡️ Learn more about **my experiences** on [LinkedIn](https://www.linkedin.com/in/thomas-laure-software-engineer/)
