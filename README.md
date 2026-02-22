@@ -11,14 +11,14 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 ### 🚀 **About Me**
 
 - 🎓 **Engineer degree** in Computer Science at *Le CNAM (France)*
-- 💻 **Daily tools**: VS Code | Claude Code | macOS
+- 💻 **Setup**: VS Code | Claude Code | macOS
 - 🧰 **Tech Stack**:
   - **Languages**: PHP | JavaScript | TypeScript | HTML | CSS | Python
   - **Frameworks**: Symfony | API Platform | Node.js | Express | React
   - **Architecture**: CQRS | Clean Architecture | Hexagonal Architecture | DDD | Readability over complexity
   - **DevOps**: Docker | CI/CD
   - **DBMS**: MySQL | MariaDB | PostgreSQL
-- 🧩 **Skills**: UX Design | Design Thinking | UML | Specifications Writing | Agility (Scrum & Kanban)
+- 🧩 **Skills**: UX Design | Design Thinking | UML | Specifications Writing | Agility (Scrum & Kanban), people over processes
 - 🌱 Currently exploring: **Laravel, Java Spring, Django**
 - 📚 **Learning**: I enjoy books, podcasts, and expanding my professional and personal horizons.
 
