@@ -10,7 +10,7 @@ I specialize in **PHP and Symfony** to develop **web applications, websites, and
 
 ### 🚀 **About Me**
 
-- 🎓 **Engineer degree** in Computer Science at *Le CNAM (France)*
+- 🎓 **Engineer degree** in Computer Science at *Le CNAM*
 - 💻 **Setup**: VS Code | Claude Code | macOS
 - 🧰 **Tech Stack**:
   - **Languages**: PHP | JavaScript | TypeScript | HTML | CSS | Python
