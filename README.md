@@ -1,4 +1,4 @@
-### Hi there 👋, **I'm Thomas Laure!**
+### Hi there 👋,
 
 I'm a **French Software Engineer** with a passion for exploring new technologies, building efficient software solutions, and tackling complex problems. I thrive on curiosity, perseverance, and versatility.
 
